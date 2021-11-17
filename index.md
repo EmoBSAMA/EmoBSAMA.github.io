@@ -5,7 +5,9 @@ permalink: /index.html
 
 ### 网站框架
 
-1. 个人心得
-2. 游戏流程记录
-3. 未来发布计划
+1. 个人心得（Experience）
+2. 游戏流程记录（Recording）
+3. 未来发布计划（Planning）
+
+
 
