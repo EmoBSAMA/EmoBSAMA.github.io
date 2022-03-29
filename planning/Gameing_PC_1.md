@@ -2,9 +2,10 @@
 permalink: planning/Gaming_PC_1.html
 ---
 
-# 小机子购机计划（Gaming PC）
+# 【已转交】小机子购机计划（Gaming PC）
 [返回主页](https://emobsama.github.io/)
 
+***本计划已为他人提供帮助，相应硬件收益最大化。***
 - 需求：
     1. 能玩CSGO，MC即可
     2. 预防存储不足
